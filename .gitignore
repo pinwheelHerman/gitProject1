@@ -1,0 +1,5 @@
+/textToIgnore1.txt
+/textToIgnore2.txt
+
+# Auto generated files
+auto-gen-files/*
